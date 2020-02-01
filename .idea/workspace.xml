@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b94ffee2-12a0-4039-8091-3224616e2f3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awaretime.py" beforeDir="false" afterPath="$PROJECT_DIR$/awaretime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timechallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/timechallenge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,10 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.awaretime">
+  <component name="RunManager" selected="Python.blank">
     <configuration name="awaretime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DatesAndDateTIme" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +56,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/awaretime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DatesAndDateTIme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blank.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,8 +106,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="timechallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DatesAndDateTIme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timechallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.blank" />
+        <item itemvalue="Python.timechallenge" />
         <item itemvalue="Python.awaretime" />
         <item itemvalue="Python.datestimes" />
       </list>
@@ -105,21 +150,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="664" height="113" key="GridCell.Tab.0.bottom" timestamp="1580520989189">
+    <state width="664" height="320" key="GridCell.Tab.0.bottom" timestamp="1580524493802">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="664" height="113" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989189" />
-    <state width="664" height="113" key="GridCell.Tab.0.center" timestamp="1580520989188">
+    <state width="664" height="320" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580524493802" />
+    <state width="664" height="320" key="GridCell.Tab.0.center" timestamp="1580524493801">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="664" height="113" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
-    <state width="664" height="113" key="GridCell.Tab.0.left" timestamp="1580520989188">
+    <state width="664" height="320" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580524493801" />
+    <state width="664" height="320" key="GridCell.Tab.0.left" timestamp="1580524493801">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="664" height="113" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
-    <state width="664" height="113" key="GridCell.Tab.0.right" timestamp="1580520989188">
+    <state width="664" height="320" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580524493801" />
+    <state width="664" height="320" key="GridCell.Tab.0.right" timestamp="1580524493802">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="664" height="113" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
+    <state width="664" height="320" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580524493802" />
+    <state x="1013" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1580523159349">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state x="1013" y="250" width="670" height="676" key="search.everywhere.popup/49.23.1631.1027@49.23.1631.1027" timestamp="1580523159349" />
   </component>
 </project>
