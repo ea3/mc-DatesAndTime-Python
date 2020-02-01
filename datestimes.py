@@ -2,7 +2,7 @@ import pytz
 import datetime
 
 # Working with times zones and the pytz package.
-#Display current times for every time zone.
+# Display current times for every time zone.
 
 country = 'Europe/Moscow'
 
