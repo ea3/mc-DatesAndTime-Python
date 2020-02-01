@@ -105,21 +105,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="699" height="113" key="GridCell.Tab.0.bottom" timestamp="1580520305401">
+    <state width="664" height="113" key="GridCell.Tab.0.bottom" timestamp="1580520989189">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="699" height="113" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580520305401" />
-    <state width="699" height="113" key="GridCell.Tab.0.center" timestamp="1580520305400">
+    <state width="664" height="113" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989189" />
+    <state width="664" height="113" key="GridCell.Tab.0.center" timestamp="1580520989188">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="699" height="113" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580520305400" />
-    <state width="699" height="113" key="GridCell.Tab.0.left" timestamp="1580520305400">
+    <state width="664" height="113" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
+    <state width="664" height="113" key="GridCell.Tab.0.left" timestamp="1580520989188">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="699" height="113" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580520305400" />
-    <state width="699" height="113" key="GridCell.Tab.0.right" timestamp="1580520305401">
+    <state width="664" height="113" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
+    <state width="664" height="113" key="GridCell.Tab.0.right" timestamp="1580520989188">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="699" height="113" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580520305401" />
+    <state width="664" height="113" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580520989188" />
   </component>
 </project>
